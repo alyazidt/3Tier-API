@@ -1,0 +1,6 @@
+@_3tier_PL.WEB_HostAddress = http://localhost:5277
+
+GET {{_3tier_PL.WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
